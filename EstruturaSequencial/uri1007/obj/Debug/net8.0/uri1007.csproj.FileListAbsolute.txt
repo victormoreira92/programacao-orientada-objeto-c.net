@@ -1,0 +1,14 @@
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/bin/Debug/net8.0/uri1007
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/bin/Debug/net8.0/uri1007.deps.json
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/bin/Debug/net8.0/uri1007.runtimeconfig.json
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/bin/Debug/net8.0/uri1007.dll
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/bin/Debug/net8.0/uri1007.pdb
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/uri1007.GeneratedMSBuildEditorConfig.editorconfig
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/uri1007.AssemblyInfoInputs.cache
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/uri1007.AssemblyInfo.cs
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/uri1007.csproj.CoreCompileInputs.cache
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/uri1007.dll
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/refint/uri1007.dll
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/uri1007.pdb
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/uri1007.genruntimeconfig.cache
+/home/vhmrj92/C# .Net/EstruturaSequencial/uri1007/obj/Debug/net8.0/ref/uri1007.dll

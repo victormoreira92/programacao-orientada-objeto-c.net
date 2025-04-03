@@ -1,0 +1,14 @@
+/home/vhmrj92/C# .Net/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto
+/home/vhmrj92/C# .Net/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.deps.json
+/home/vhmrj92/C# .Net/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.runtimeconfig.json
+/home/vhmrj92/C# .Net/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.dll
+/home/vhmrj92/C# .Net/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.pdb
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.AssemblyInfo.cs
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.dll
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/refint/PrimeiroProjeto.dll
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.pdb
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.genruntimeconfig.cache
+/home/vhmrj92/C# .Net/PrimeiroProjeto/obj/Debug/net8.0/ref/PrimeiroProjeto.dll
