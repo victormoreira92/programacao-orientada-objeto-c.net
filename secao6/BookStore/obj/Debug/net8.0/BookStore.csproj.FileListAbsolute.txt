@@ -1,0 +1,15 @@
+/home/vhmrj92/C# .Net/secao6/BookStore/bin/Debug/net8.0/BookStore
+/home/vhmrj92/C# .Net/secao6/BookStore/bin/Debug/net8.0/BookStore.deps.json
+/home/vhmrj92/C# .Net/secao6/BookStore/bin/Debug/net8.0/BookStore.runtimeconfig.json
+/home/vhmrj92/C# .Net/secao6/BookStore/bin/Debug/net8.0/BookStore.dll
+/home/vhmrj92/C# .Net/secao6/BookStore/bin/Debug/net8.0/BookStore.pdb
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/BookStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/BookStore.AssemblyInfoInputs.cache
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/BookStore.AssemblyInfo.cs
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/BookStore.csproj.CoreCompileInputs.cache
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/BookStore.sourcelink.json
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/BookStore.dll
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/refint/BookStore.dll
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/BookStore.pdb
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/BookStore.genruntimeconfig.cache
+/home/vhmrj92/C# .Net/secao6/BookStore/obj/Debug/net8.0/ref/BookStore.dll
