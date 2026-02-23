@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = uri1002
-build_property.ProjectDir = /home/vhmrj92/C# .Net/EstruturaSequencial/uri1002/
+build_property.ProjectDir = /home/vhmrj92/dotnet_projects/C# .Net/EstruturaSequencial/uri1002/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
